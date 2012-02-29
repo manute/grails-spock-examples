@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Manu-Mac.local" id="0" name="AlbumSpec" package="es.demo" tests="1" time="1.783" timestamp="2012-02-29T18:32:37">
+      <properties />
+
+      <testcase classname="es.demo.AlbumSpec" name="albums can be saved and retrieved" time="1.74" />
+
+      <system-out><![CDATA[--Output from albums can be saved and retrieved--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from albums can be saved and retrieved--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

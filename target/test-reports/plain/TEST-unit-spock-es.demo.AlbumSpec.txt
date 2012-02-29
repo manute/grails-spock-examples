@@ -1,0 +1,10 @@
+Testsuite: es.demo.AlbumSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1,783 sec
+------------- Standard Output ---------------
+--Output from albums can be saved and retrieved--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from albums can be saved and retrieved--
+------------- ---------------- ---------------
+
+Testcase: albums can be saved and retrieved took 1,74 sec

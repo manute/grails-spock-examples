@@ -1,1 +1,0 @@
---Output from albums can be saved and retrieved--
